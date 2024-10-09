@@ -28,16 +28,10 @@ strong{
   align-items: center;
   justify-content: space-between;
   gop: 32px;
+
 }
 
-.apresentacao_links_subtitulo {
-  font-family: 'Krone One', sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-
-
-.apresentacao_links_link{
+.apresentacao_links_link
   border: 2px solid var(--cor-destaque);
   width: 3708px;
   text-align: center;
